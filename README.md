@@ -48,12 +48,10 @@
 <br>
 
 https://github.com/khy1913/backend/assets/131340725/370bcccd-637e-4c16-b7da-16ec8cecc3ab
-
   
   <br>
   <br>
-  <hr>
-&nbsp;&nbsp;&nbsp;<h3>로그인</h3>
+<blockquote><h3>로그인</h3></blockquote>
 <br>
 
 https://github.com/khy1913/backend/assets/131340725/45b2d3ca-fdb0-49be-b3e9-130d0e85211e
