@@ -1,24 +1,43 @@
 # backend
 
-조별 자바 프로젝트 CRUD
+<h1>조별 자바 프로젝트 CRUD</h1>
+<dl>
+  <dt>조명 : 중.꺾.마(중요한건 꺾이지 않는 마음이죠..)</dt>
+  <dd>김현연</dd>
+  <dd>신수정</dd>
+  <dd>김령경</dd>
+  <dd>엄경섭</dd>
+  <dd>유혁</dd>
+  <dd>최원락</dd>
+  
+</dl>
 
 동영상은 30mb를 넘어선 안됨
 
-#1. 개요
-  - 프로젝트 사용법
-     ojdbc6.jar, Server에 해당 프로젝트 db연결
-    sql문을 사용하여 db에 테이블 생성
-    .
-    .
-    .
+<h2>#1. 개요</h2>
+  <p>프로젝트 사용법</p>
+  <p>주제 : 캠박<span>(캠핑카 대여사이트)</span></p>
+  <p></p>
+    <ol>
+      <li>ojdbc6.jar, Server에 해당 프로젝트 db연결</li>
+      <li>sql문을 사용하여 db에 테이블 생성</li>
+      <li>구현한 페이지 기능 시현</li>
+    </ol>
 
+
+
+     
 #2. DB 구성
 
 <img src="https://github.com/khy1913/backend/assets/131340725/8f9061d9-5c33-4901-8f2f-792389e640b8">
 
 #3. 구성
 
+  
+
 #4. Work-Flow
+
+
 
 #5. 프로젝트 시연
 
