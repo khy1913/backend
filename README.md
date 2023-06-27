@@ -27,19 +27,20 @@
 
 
      
-#2. DB 구성
+<h2>#2. DB 구성</h2>
 
 <img src="https://github.com/khy1913/backend/assets/131340725/8f9061d9-5c33-4901-8f2f-792389e640b8">
 
-#3. 구성
+
+<h2>#3. 구성</h2>
 
   
 
-#4. Work-Flow
+<h2>#4. Work-Flow</h2>
 
 
 
-#5. 프로젝트 시연
+<h2>#5. 프로젝트 시연</h2>
 
 
 <h3>회원가입</h3>
