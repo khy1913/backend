@@ -1,7 +1,7 @@
 # backend
 
 
-<h1 style="color:red">조별 자바 프로젝트 CRUD</h1>
+<h1>조별 자바 프로젝트 CRUD</h1>
 <dl>
   <dt>조명 : 중.꺾.마(중요한건 꺾이지 않는 마음이죠..)</dt> <br>
   <dd>김현연(조장)</dd>
@@ -44,9 +44,9 @@
 <h2>#5. 프로젝트 시연</h2>
 
 
-  <h3>회원가입</h3>
+<blockquote><h3>회원가입</h3></blockquote>
 
-  https://github.com/khy1913/backend/assets/131340725/370bcccd-637e-4c16-b7da-16ec8cecc3ab
+https://github.com/khy1913/backend/assets/131340725/370bcccd-637e-4c16-b7da-16ec8cecc3ab
 
   
   <br>
