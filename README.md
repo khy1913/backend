@@ -52,6 +52,7 @@ https://github.com/khy1913/backend/assets/131340725/370bcccd-637e-4c16-b7da-16ec
   
   <br>
   <br>
+  <hr>
 <blockquote><h3>로그인</h3></blockquote>
 <br>
 
