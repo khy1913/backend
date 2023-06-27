@@ -38,3 +38,8 @@ https://github.com/khy1913/backend/assets/131340725/45b2d3ca-fdb0-49be-b3e9-130d
 
 
 https://github.com/khy1913/backend/assets/131340725/4f4dbc1b-69ea-403a-a474-e3496869ad7e
+
+
+<h3>차량등록 확인 및 삭제</h3>
+
+https://github.com/khy1913/backend/assets/131340725/41579683-9155-412d-9b14-a2358da2ff4e
