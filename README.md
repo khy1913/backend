@@ -19,6 +19,6 @@
 #4. Work-Flow
 
 #5. 프로젝트 시연
-  <img src="https://github.com/khy1913/backend/assets/131340725/f97e3131-0f11-434b-a852-30496cc5ec0f" >
+
 
 https://github.com/khy1913/backend/assets/131340725/46e80adc-1742-4435-99fc-b9727b689318
