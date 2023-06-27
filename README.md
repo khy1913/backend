@@ -14,6 +14,8 @@
 
 #2. DB 구성
 
+<img src="https://github.com/khy1913/backend/assets/131340725/8f9061d9-5c33-4901-8f2f-792389e640b8">
+
 #3. 구성
 
 #4. Work-Flow
