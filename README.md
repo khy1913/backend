@@ -22,8 +22,9 @@
   <p>사용 프로그램 및 언어</p>
   <ol>
     <li><img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/dt/:name"></li>
-    <li>오라클</li>
-    <li>VSCODE</li>
+    <li><p><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/></p>
+</li>
+    <li>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo&logoColor=4479A1"/></li>
     <li></li>
   </ol>
 
