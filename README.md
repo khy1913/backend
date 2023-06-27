@@ -33,7 +33,7 @@
 
 
 <h2>#3. 구성</h2>
-
+<img src="https://github.com/khy1913/backend/assets/131340725/93c382ec-e6a4-4d6b-b963-fb4b59decf83">
   
 
 <h2>#4. Work-Flow</h2>
