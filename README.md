@@ -44,7 +44,7 @@
   
 
 <h2>#4. Work-Flow</h2>
-
+<img src="https://github.com/khy1913/backend/assets/131340725/f14c33fd-1069-4b9b-84e2-64b1c9e4b88a">
 
 
 <h2>#5. 프로젝트 시연</h2>
