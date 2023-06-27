@@ -32,3 +32,9 @@ https://github.com/khy1913/backend/assets/131340725/0b04e7d7-54b5-408f-85ef-8fdc
 
 
 https://github.com/khy1913/backend/assets/131340725/45b2d3ca-fdb0-49be-b3e9-130d0e85211e
+
+
+<h3>이미지 null처리</h3>
+
+
+https://github.com/khy1913/backend/assets/131340725/4f4dbc1b-69ea-403a-a474-e3496869ad7e
