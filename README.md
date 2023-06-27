@@ -12,12 +12,22 @@
 <h2>#1. 개요</h2>
   <p>프로젝트 사용법</p>
   <p>주제 : 캠박<span>(캠핑카 대여사이트)</span></p>
-  <p></p>
     <ol>
       <li>ojdbc6.jar, Server에 해당 프로젝트 db연결</li>
       <li>sql문을 사용하여 db에 테이블 생성</li>
       <li>구현한 페이지 기능 시현</li>
     </ol>
+  <br>
+
+  <p>사용 프로그램 및 언어</p>
+  <ol>
+    <li><img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/dt/:name"></li>
+    <li>오라클</li>
+    <li>VSCODE</li>
+    <li></li>
+  </ol>
+
+  
 
 <br>
 
