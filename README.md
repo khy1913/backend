@@ -43,15 +43,12 @@
 <h2>#5. 프로젝트 시연</h2>
 
 
-<h3>회원가입</h3>
+  <h3>회원가입</h3>
 
-
-
-https://github.com/khy1913/backend/assets/131340725/0b04e7d7-54b5-408f-85ef-8fdc705428bc
-
-
+  https://github.com/khy1913/backend/assets/131340725/370bcccd-637e-4c16-b7da-16ec8cecc3ab
+  <br>
+  <br>
 <h3>로그인</h3>
-
 
 https://github.com/khy1913/backend/assets/131340725/45b2d3ca-fdb0-49be-b3e9-130d0e85211e
 
