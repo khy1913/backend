@@ -21,4 +21,5 @@
 #5. 프로젝트 시연
 
 
-https://github.com/khy1913/backend/assets/131340725/46e80adc-1742-4435-99fc-b9727b689318
+<h3>회원가입</h3>
+https://github.com/khy1913/backend/assets/131340725/0b04e7d7-54b5-408f-85ef-8fdc705428bc
