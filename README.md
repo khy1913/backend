@@ -21,5 +21,4 @@
 #5. 프로젝트 시연
   <video src="[https://github.com/khy1913/backend/assets/131340725/46e80adc-1742-4435-99fc-b9727b689318](https://github.com/khy1913/backend/issues/2#issue-1775979935)" autoplay muted />
 
-https://github.com/khy1913/backend/assets/131340725/e54e2d35-bd1e-4ab3-a1cb-f044d3fb7ca7
 https://github.com/khy1913/backend/assets/131340725/46e80adc-1742-4435-99fc-b9727b689318
