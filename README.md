@@ -24,7 +24,7 @@
     <li><img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/dt/:name"></li>
     <li><p><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/></p>
 </li>
-    <li>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo&logoColor=4479A1"/></li>
+    <li>https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white</li>
     <li></li>
   </ol>
 
