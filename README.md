@@ -1,12 +1,7 @@
 # backend
-<style>
-  h1 {
-    color:red;
-  }
-</style>
 
 
-<h1>조별 자바 프로젝트 CRUD</h1>
+<h1 style="color:red">조별 자바 프로젝트 CRUD</h1>
 <dl>
   <dt>조명 : 중.꺾.마(중요한건 꺾이지 않는 마음이죠..)</dt> <br>
   <dd>김현연(조장)</dd>
