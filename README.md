@@ -67,7 +67,7 @@ https://github.com/khy1913/backend/assets/131340725/45b2d3ca-fdb0-49be-b3e9-130d
 <blockquote><h3>이미지 null처리</h3></blockquote>
 <br>
 
-https://github.com/khy1913/backend/assets/131340725/4f4dbc1b-69ea-403a-a474-e3496869ad7e
+https://github.com/khy1913/backend/assets/131340725/77ad0dd7-79f5-4114-9293-a6d92df05ea2
 
 <br>
 <br>
