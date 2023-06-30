@@ -50,17 +50,10 @@
 <h2>#5. 프로젝트 시연</h2>
 
 
-<blockquote><h3>회원가입</h3></blockquote>
+<blockquote><h3>회원가입/로그인, 로그아웃</h3></blockquote>
 <br>
 
-https://github.com/khy1913/backend/assets/131340725/370bcccd-637e-4c16-b7da-16ec8cecc3ab
-  
-  <br>
-  <br>
-<blockquote><h3>로그인</h3></blockquote>
-<br>
-
-https://github.com/khy1913/backend/assets/131340725/45b2d3ca-fdb0-49be-b3e9-130d0e85211e
+https://github.com/khy1913/backend/assets/131340725/9a2c795e-d6dd-4e65-8efb-aa5259125a11
 
 <br>
 <br>
